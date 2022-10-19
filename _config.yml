@@ -40,7 +40,7 @@ author: Stephen Francis
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "published Work (c) {currentYear} {Stephen Francis}"
+copyright: "unpublished Work (cleft)2017-{currentYear} {Stephen Francis}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   your awesome description. You can edit this
