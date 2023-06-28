@@ -26,7 +26,7 @@
 
 title: Franco Tech Academy
 email: francisstephen70@gmail.com
-author: Stephen Francis
+author: Techexpert-Franco
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -43,7 +43,7 @@ author: Stephen Francis
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-We offer high quality courses that help you become a tech professional in record time.
+We offer high quality courses that help you become a tech professional in record time, we don't only teach you, we bring tech to your doorstep.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
