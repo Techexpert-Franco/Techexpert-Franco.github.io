@@ -7,6 +7,7 @@ title: About
 
 At Franco Tech Academy, we don't only priorotize our clients by making sure they are satisfied, we also bring technology to you doorsteps.
 we train and develop young tech talents, we help our students achieve their goal and help them focus on their tech dreams.
+customer satisfaction is our priority.
 
 ### Enquiries
 For Enquiries, sponsorship and partnership, Contact us:
